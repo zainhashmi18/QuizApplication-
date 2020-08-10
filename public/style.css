@@ -1,0 +1,83 @@
+body{
+    background-image: url(a.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.text{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    margin-top: 70px;
+    font-family: poppins;
+    font-weight: 700;
+}
+.textcol{
+    background-color: white;
+    border-radius: 8px;
+    padding: 8px;
+    margin-right: 8px;
+    text-align: center;
+    font-family: poppins;
+    
+}
+.textcol h1{
+    font-size: 30px;
+    font-family: poppins;
+    font-weight: 600 !important;
+}
+.list{
+    list-style: none;
+    color: black;
+    text-align: left;
+}
+.opt{
+    background-color: rgb(192, 192, 192);
+    margin: 10px;
+    padding: 10px;
+    padding-left: 20px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+.btnclass{
+   text-align: right;
+   margin-right: 10px;
+}
+.btnclass button{
+    background-color: #00BBF0;
+    border-radius: 5px;
+    border: 1px solid grey;
+    font-size: 20px;
+    padding: 0 15px;
+    font-family: poppins;
+    color: white;
+}
+.colorclass{
+    background-color: #00bbf0 !important;
+}
+.inp{
+    text-align: center;
+}
+.inp input{
+    border-radius: 5px;
+    outline: none !important;
+}
+.inp button{
+    background-color: #00BBF0;
+    border-radius: 5px;
+    border: 1px solid grey;
+    font-size: 20px;
+    padding: 0 15px;
+    font-family: poppins;
+    color: white;
+}
+#scorebar1{
+    margin-top: 15px;
+}
+#scorebar{
+    margin-top: 30px;
+}
+#scorebar0{
+    margin-top: 30px;
+}
